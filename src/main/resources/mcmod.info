@@ -1,0 +1,12 @@
+[
+	{
+		"modid": "murderer",
+		"name": "Murderer",
+		"description": "Tries to find killer in the murder mystery mini game",
+		"version": "1.0.0",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["Anthony Afonin aka anon987666"]
+	}
+]
